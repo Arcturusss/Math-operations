@@ -13,7 +13,7 @@ Operasi yang tersedia yaitu
 
 > - Pastikan sebelumnya kamu sudah menginstall bahasa c++ di terminal
 
-Jalankan program dengan
+Jalankan program dengan cara
 ```
 ./calculators
 ```
