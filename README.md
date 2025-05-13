@@ -2,14 +2,14 @@
 
 Dibuat dengan bahasa c++, program ini digunakan untuk menyelesaikan operasi matematika sederhana.
 
-# Operasi yang tersedia
+## Operasi yang tersedia
 
 Operasi yang tersedia yaitu
 ```
 [ + ], [ - ], [ * ], [ / ]
 ```
 
-#Penggunaan
+## Penggunaan
 
 > - Pastikan sebelumnya kamu sudah menginstall bahasa c++ di terminal
 
